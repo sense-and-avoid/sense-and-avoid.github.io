@@ -2,14 +2,14 @@
   "name": "Sense and avoid technology",
   "short_name": "Sense and avoid technology",
   "lang": "en-us",
-  "theme_color": "rgb(250, 125, 125)",
-  "background_color": "rgb(250, 125, 125)",
+  "theme_color": "rgb(109, 194, 105)",
+  "background_color": "rgb(109, 194, 105)",
   "icons": [{
-    "src": "/media/icon_huc013f98525804727a490388fa39763f6_9972_192x192_fill_q75_lanczos_center.jpg",
+    "src": "/media/icon_hu5fff2d865028ed8b008e258da1539729_8844_192x192_fill_q75_lanczos_center.jpg",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_huc013f98525804727a490388fa39763f6_9972_512x512_fill_q75_lanczos_center.jpg",
+    "src": "/media/icon_hu5fff2d865028ed8b008e258da1539729_8844_512x512_fill_q75_lanczos_center.jpg",
     "sizes": "512x512",
     "type": "image/png"
      }],

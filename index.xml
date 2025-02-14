@@ -7,7 +7,7 @@
     <description>Sense and avoid technology</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tihrobotics.github.io/media/icon_huc013f98525804727a490388fa39763f6_9972_512x512_fill_q75_lanczos_center.jpg</url>
+      <url>https://tihrobotics.github.io/media/icon_hu5fff2d865028ed8b008e258da1539729_8844_512x512_fill_q75_lanczos_center.jpg</url>
       <title>Sense and avoid technology</title>
       <link>https://tihrobotics.github.io/</link>
     </image>
@@ -273,7 +273,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-465731298&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-213468579&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -283,7 +283,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-465731298&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-213468579&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
