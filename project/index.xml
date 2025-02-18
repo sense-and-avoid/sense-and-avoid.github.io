@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Sense and avoid technology</title>
-    <link>https://tihrobotics.github.io/project/</link>
-      <atom:link href="https://tihrobotics.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sense-and-avoid.github.io/project/</link>
+      <atom:link href="https://sense-and-avoid.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tihrobotics.github.io/media/icon_hu5fff2d865028ed8b008e258da1539729_8844_512x512_fill_q75_lanczos_center.jpg</url>
+      <url>https://sense-and-avoid.github.io/media/icon_hu5fff2d865028ed8b008e258da1539729_8844_512x512_fill_q75_lanczos_center.jpg</url>
       <title>Projects</title>
-      <link>https://tihrobotics.github.io/project/</link>
+      <link>https://sense-and-avoid.github.io/project/</link>
     </image>
     
     <item>
       <title>Obstacle detection and collision avoidance for multi-rotor UAV</title>
-      <link>https://tihrobotics.github.io/project/sna/</link>
+      <link>https://sense-and-avoid.github.io/project/sna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tihrobotics.github.io/project/sna/</guid>
+      <guid>https://sense-and-avoid.github.io/project/sna/</guid>
       <description>&lt;p align=&#39;justify&#39;&gt; Drones are actively used in precision agriculture with one of its major applications of spraying pesticides, herbicides, fertilizers, etc. in the agricultural field. The aim of this project is to develop a reliable Sense and avoid technology technology to make UAV-based spraying completely autonomous.
 The major challenge in achieving autonomy is the requirement of flying low in an agricultural environment with lots of obstacles like trees, poles, cables, etc.
 &lt;br&gt;
