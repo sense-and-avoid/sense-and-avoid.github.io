@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sense and avoid technology</title>
+    <title>Sense-and-avoid module for precision agriculture</title>
     <link>https://sense-and-avoid.github.io/</link>
       <atom:link href="https://sense-and-avoid.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sense and avoid technology</description>
+    <description>Sense-and-avoid module for precision agriculture</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sense-and-avoid.github.io/media/icon_hu5fff2d865028ed8b008e258da1539729_8844_512x512_fill_q75_lanczos_center.jpg</url>
-      <title>Sense and avoid technology</title>
+      <title>Sense-and-avoid module for precision agriculture</title>
       <link>https://sense-and-avoid.github.io/</link>
     </image>
     
     <item>
-      <title>&lt;p align=&#39;justify&#39;&gt; Obstacle detection and collision avoidance for multi-rotor UAVs&lt;/p&gt;</title>
+      <title>Advancing Low-Altitude Agricultural UAV Operations: Plug-and-Play Device for Sensing and Obstacle Avoidance</title>
       <link>https://sense-and-avoid.github.io/research_projects/obs_avoid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sense-and-avoid.github.io/research_projects/obs_avoid/</guid>
@@ -273,7 +273,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-758624139&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-785491263&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -283,7 +283,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-758624139&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-785491263&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -808,7 +808,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Obstacle detection and collision avoidance for multi-rotor UAV</title>
+      <title>Advancing Low-Altitude Agricultural UAV Operations</title>
       <link>https://sense-and-avoid.github.io/project/sna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sense-and-avoid.github.io/project/sna/</guid>
